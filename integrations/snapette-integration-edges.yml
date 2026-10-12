@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/snapette/integrations
+- https://n8n.io/integrations/snapette/
+- https://composio.dev/toolkits/snapette
+- https://monid.ai/tools/snapette
+checked:
+- https://composio.dev/toolkits/snapette
+- https://monid.ai/tools/snapette
+- https://n8n.io/integrations/snapette/
+- https://zapier.com/apps/snapette/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
